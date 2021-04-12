@@ -1,3 +1,1 @@
 - 👋 Hi, I’m @sarahschau
-- 👀 I’m interested in sustainable projects and creating nice frontend stuff for it.
-- 🌱 I’m currently learning node.js again
